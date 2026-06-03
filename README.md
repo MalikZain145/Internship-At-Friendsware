@@ -11,7 +11,6 @@ This repository demonstrates all the works and projects done/delivered to the Fr
 ![Version](https://img.shields.io/badge/version-1.0.0-5b4cf5?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-22c495?style=flat-square)
 ![Zero Dependencies](https://img.shields.io/badge/dependencies-zero-f59e0b?style=flat-square)
-![Lines of Code](https://img.shields.io/badge/lines_of_code-1661-0f0e17?style=flat-square)
 
 </div>
 
