@@ -47,12 +47,12 @@ It was built to demonstrate that a production-quality product does not require a
 ```
 spendly/
 │
-├── index.html        ← Application shell (markup only, 191 lines)
-├── style.css         ← All styles, variables, responsive breakpoints (915 lines)
-├── script.js         ← All logic, state, events, export engine (555 lines)
+├── index.html        ← Application shell (markup only, 183 lines)
+├── style.css         ← All styles, variables, responsive breakpoints (891 lines)
+├── script.js         ← All logic, state, events, export engine (552 lines)
 │
 └── spendly.html      ← Self-contained single-file bundle (CSS + HTML + JS inlined)
-                        Open this file in any browser — nothing else needed.
+                        Open this file in any browser — nothing else needed (1630 lines)
 ```
 
 ---
